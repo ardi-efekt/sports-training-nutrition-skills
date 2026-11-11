@@ -12,6 +12,6 @@ See on hariduslik abivahend, mitte tervishoiutöötaja ega personaaltreeneri ase
 
 🔗 Skillid ja kasutusjuhend: https://github.com/ardi-efekt/sports-training-nutrition-skills
 
-Lisan postitusele koolitustõendi. Jagamisel soovitan katta tõendilt isikukoodi ja tunnistuse numbri.
+Kui lisan postitusele koolitustõendi, eemaldan enne pildilt isikukoodi ja tunnistuse numbri.
 
 #jõutreening #liikumine #tehisintellekt #AI #tervislikeluviis
