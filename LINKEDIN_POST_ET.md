@@ -10,7 +10,7 @@ Nende teadmiste põhjal koostasin AI-agentidele mõeldud juhised, mis aitavad lu
 
 See on hariduslik abivahend, mitte tervishoiutöötaja ega personaaltreeneri asendus. Eesmärk on teha usaldusväärsem lähtekoht kättesaadavaks ja jagada seda, mida olen õppinud.
 
-🔗 Skillid ja kasutusjuhend: **[LISA AVALIK GITHUBI LINK]**
+🔗 Skillid ja kasutusjuhend: https://github.com/ardi-efekt/sports-training-nutrition-skills
 
 Lisan postitusele koolitustõendi. Jagamisel soovitan katta tõendilt isikukoodi ja tunnistuse numbri.
 
