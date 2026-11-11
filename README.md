@@ -15,17 +15,35 @@ The material is based on a supplied Estonian sports-training guide and edited fo
 
 ### Codex
 
-Copy the `codex` directory into your Codex skills directory, typically:
+Copy the `codex` directory into one of Codex's skill directories:
 
 ```text
-~/.codex/skills/sports-training-nutrition/
+# Current project only
+.agents/skills/sports-training-nutrition/
+
+# All projects for your user
+~/.agents/skills/sports-training-nutrition/
 ```
 
 The `codex/SKILL.md` is a complete standalone skill file.
 
-### Claude
+### Claude Code
 
-Install `claude/` as a Claude skill directory, for example under a project's `.claude/skills/sports-training-nutrition/` or the user skills location supported by your Claude setup. The `claude/SKILL.md` file is standalone.
+Copy the `claude` directory into either location:
+
+```text
+# Current project only
+.claude/skills/sports-training-nutrition/
+
+# All projects for your user
+~/.claude/skills/sports-training-nutrition/
+```
+
+The `claude/SKILL.md` is a complete standalone skill file.
+
+### claude.ai
+
+Custom Skills on claude.ai are uploaded as ZIP files. Put `claude/SKILL.md` in a folder named `sports-training-nutrition`, zip that folder, then upload the ZIP from **Customize → Skills**. Skill availability depends on your plan and whether code execution is enabled.
 
 ## Source and editorial notes
 
